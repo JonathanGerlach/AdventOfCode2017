@@ -1,0 +1,5 @@
+name "day3puzzle1"
+description "A minimal D application."
+authors "Jonathan Gerlach"
+copyright "Copyright © 2017, Jonathan Gerlach"
+license "BSD"
